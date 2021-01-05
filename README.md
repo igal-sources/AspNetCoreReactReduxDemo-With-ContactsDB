@@ -1,2 +1,2 @@
 # AspNetCoreReactRedux
-Criando CRUD em .Net Core ,React e Redux
+CRUD demo .Net Core ,React & Redux
